@@ -8,6 +8,6 @@ on:
 
 jobs:
   ci:
-    uses: pkum26/test/.github/workflows/dart.yml@main
+    uses: pkum26/test/.github/workflows/dart.yml@e836714
     secrets: inherit
 
